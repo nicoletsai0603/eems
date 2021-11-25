@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="295.892" height="77" viewBox="0 0 295.892 77">
+  <g id="logo" transform="translate(23.712 28.144)">
+    <g id="LOGO_BG" transform="translate(-23.712 -28.144)">
+      <path id="路径_34" data-name="路径 34" d="M129.418,763.134a38.5,38.5,0,1,1-38.5-38.5A38.5,38.5,0,0,1,129.418,763.134Z" transform="translate(-52.419 -724.634)" fill="#fff"/>
+      <g id="组_23" data-name="组 23" transform="translate(3.527 37.604)">
+        <path id="路径_35" data-name="路径 35" d="M126.134,781.263a37.957,37.957,0,0,1-69.87.45H86.5l10.6-15.606s.561-.977,1.258-.141,12.72,15.485,12.72,15.485l15.056-.188" transform="translate(-56.264 -765.628)" fill="#7db33d"/>
+        <path id="路径_36" data-name="路径 36" d="M126.134,781.263a37.957,37.957,0,0,1-69.87.45H86.5l10.6-15.606s.561-.977,1.258-.141,12.72,15.485,12.72,15.485l15.056-.188" transform="translate(-56.264 -765.628)" fill="#7db33d" stroke="#85c538" stroke-width="0.311"/>
+      </g>
+      <path id="路径_37" data-name="路径 37" d="M128.2,769.892a37.944,37.944,0,1,0-75.318-6.554q0,.7.024,1.394H66.134L81.2,741.857s.56-1.676,2.233-.281A31.811,31.811,0,0,1,86.92,745.2L71.156,768.359H52.885l.417,2.512h19.11l23.574-35.153a1.413,1.413,0,0,1,2.511-.279c1.536,1.675,25.945,34.594,25.945,34.594Z" transform="translate(-52.457 -724.697)" fill="#007dc6"/>
+      <path id="路径_38" data-name="路径 38" d="M128.2,769.892a37.944,37.944,0,1,0-75.318-6.554q0,.7.024,1.394H66.134L81.2,741.857s.56-1.676,2.233-.281A31.811,31.811,0,0,1,86.92,745.2L71.156,768.359H52.885l.417,2.512h19.11l23.574-35.153a1.413,1.413,0,0,1,2.511-.279c1.536,1.675,25.945,34.594,25.945,34.594Z" transform="translate(-52.457 -724.697)" fill="none" stroke="#338bbc" stroke-width="0.311"/>
+      <g id="组_24" data-name="组 24" transform="translate(1.68 22.42)">
+        <path id="路径_39" data-name="路径 39" d="M54.251,775.2h24.97l17.018-25.667s.838-1.117,1.952.139,20.226,24.969,20.226,24.969l.641.64h8.707l-.559,1.6h-9.067L97.773,752.462s-.558-1.116-1.394.28-15.6,24.136-15.6,24.136H54.837Z" transform="translate(-54.251 -749.076)" fill="#7db33d"/>
+        <path id="路径_40" data-name="路径 40" d="M54.251,775.2h24.97l17.018-25.667s.838-1.117,1.952.139,20.226,24.969,20.226,24.969l.641.64h8.707l-.559,1.6h-9.067L97.773,752.462s-.558-1.116-1.394.28-15.6,24.136-15.6,24.136H54.837Z" transform="translate(-54.251 -749.076)" fill="#7db33d" stroke="#85c538" stroke-width="0.311"/>
+      </g>
+    </g>
+    <text id="環保稽查處分管制系統" transform="translate(61.18 26.055)" fill="#fff" font-size="18" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei" letter-spacing="-0.024em"><tspan x="0" y="0" style="font-weight:bold">環保稽查處分管制系統</tspan></text>
+    <text id="行政院環境保護署" transform="translate(59.18 4.161)" fill="#fff" font-size="25" font-family="MicrosoftJhengHeiBold, Microsoft JhengHei"><tspan x="0" y="0" style="font-weight:bold">行政院環境保護署</tspan></text>
+    <text id="Environmental_Protection_Project_Data_Warehousing" data-name="Environmental Protection Project Data Warehousing" transform="translate(61.18 40.42)" fill="#fff" font-size="9" font-family="MicrosoftJhengHeiLight, Microsoft JhengHei"><tspan x="0" y="0">Environmental Protection Project Data Warehousing</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg id="step1" xmlns="http://www.w3.org/2000/svg" width="202.153" height="202.153" viewBox="0 0 202.153 202.153">
+  <g id="標題">
+    <path id="矩形_1538" data-name="矩形 1538" d="M0,0H102.153a100,100,0,0,1,100,100v2.153a100,100,0,0,1-100,100H100a100,100,0,0,1-100-100V0A0,0,0,0,1,0,0Z" transform="translate(202.153) rotate(90)" fill="#00afcf"/>
+    <g id="白色圓圈" transform="translate(17.234 16.846)">
+      <rect id="矩形_1539" data-name="矩形 1539" width="168.461" height="168.461" rx="84.23" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="矩形_1540" data-name="矩形 1540" width="151.198" height="151.198" rx="75.599" transform="translate(8.957 8.119)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

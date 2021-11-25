@@ -1,0 +1,78 @@
+﻿@charset "utf-8";
+/* CSS Document */
+td { padding:5px; }
+td a { font-size:13px; color:#7a5cbe; text-decoration:none;}
+td a:hover { font-size:13px; color:#000000; text-decoration:none; }
+
+/*原本黃色的版*/
+/*
+.tableA_th01 { color:#504400; background:#d4ca54 top repeat-x; font-weight:bold; font-size:15px; }
+.tableA_td01 { color:#5c5805; background:#f3eca2 top repeat-x; font-size:13px;}
+.tableA_td02 { color:#474736; font-size:13px; background-color:#fffbe2; }
+.tableA_td03 { color:#474736; font-size:13px; background-color:#fff; }
+.tableA_td04 { color:#56550b; background:#FF6 top repeat-x;  font-weight:bold; font-size:13px; }
+.tableA_td05 { color:#676767; font-size:13px; background-color:#FFF; }
+.tableA_td06 { color:#414003; background:#d4ca54 top repeat-x; font-size:13px;}
+.BTN_typeA ul { width:100}
+.BTN_typeA li { float:left; margin-right:6px;}
+.BTN_typeA li a { text-decoration:none; display:block; background:url(images/table_btn01.png) right top; padding-right:15px;}
+.BTN_typeA li a:hover { background-position:right -22px;}
+.BTN_typeA li a span { color:#894e08; text-decoration:none; display:block; background:url(images/table_btn01.png) left top; padding:2px 0px 3px 15px; line-height:17px; }
+.BTN_typeA li a:hover  span{ color:#fff; background-position:left -22px;}
+*/
+
+/*環保局反應黃色太亮他們會瞎掉，所以全部改綠色*/
+table {text-align: left;}
+.tableA_th01 { color:#3b5110; background-color:#adcb5c; font-weight:bold; font-size:15px;}
+.tableA_th01_1 { color:#030; background-color:#8cba52; font-size:15px;}
+.tableA_td01 { color:#000000; background-color:#dbeea7;  font-size:13px;}
+.tableA_td02 { color:#36452f; font-size:13px; background-color:#f3ffe4; }
+.tableA_td03 { color:#36452f; font-size:13px; background-color:#fff; }
+.tableA_td04 { color:#294c0a; background-color:#c7f157; font-weight:bold; font-size:13px; }
+.tableA_td05 { color:#526050; font-size:13px; background-color:#FFF; }
+.tableA_td06 { color:#000000; background-color: #adcb5c; font-size:13px;}
+.BTN_typeA ul {}
+.BTN_typeA li { float:left; margin-right:6px;}
+.BTN_typeA li a { text-decoration:none; display:block; background:url(images/table_btn02.png) right top; padding-right:15px; cursor:pointer; text-align:center;}
+.BTN_typeA li a:hover { background-position:right -22px; cursor:pointer; text-align:center;}
+.BTN_typeA li a span { color:#004216; text-decoration:none; background:url(images/table_btn02.png) left top; display:block; padding:2px 0px 3px 15px; line-height:17px; cursor:pointer; text-align:center;}
+.BTN_typeA li a:hover  span{ color:#fff; background-position:left -22px; cursor:pointer; text-align:center;}
+
+.tableB_th01 { color:#3b5110; background:#adcb5c top repeat-x; font-weight:bold; font-size:15px;}
+.tableB_th01_1 { color:#030; background:#8cba52 top repeat-x; font-size:15px;}
+.tableB_td01 { color:#39471b; background:#dbeea7 top repeat-x;  font-size:13px;}
+.tableB_td02 { color:#36452f; font-size:13px; background-color:#f3ffe4; }
+.tableB_td03 { color:#36452f; font-size:13px; background-color:#fff; }
+.tableB_td04 { color:#294c0a; background:#c7f157 top repeat-x; font-weight:bold; font-size:13px; }
+.tableB_td05 { color:#526050; font-size:13px; background-color:#FFF; }
+.tableB_td06 { color:#1f2f00; background:#adcb5c top repeat-x; font-size:13px;}
+.BTN_typeB ul {}
+.BTN_typeB li { float:left; margin-right:6px;}
+.BTN_typeB li a { text-decoration:none; display:block; background:url(images/table_btn02.png) right top; padding-right:15px;}
+.BTN_typeB li a:hover { background-position:right -22px;}
+.BTN_typeB li a span { color:#004216; text-decoration:none; background:url(images/table_btn02.png) left top; display:block;  padding:2px 0px 3px 15px; line-height:17px; }
+.BTN_typeB li a:hover  span{ color:#fff; background-position:left -22px; cursor:pointer; text-align:center;}
+
+.table_point { color:#1670a4; font-size:13px;}
+
+
+/* 表格欄位 */
+.field{ width:908px; height:100%;margin:auto;}
+.tableC td, .tableC th {
+	border-width: 1px;
+border-color:#4e513e;
+padding: 5px 10px;
+font-family: Verdana;
+color: #4e513e;
+}
+.tableC_td01 { color:#39471b; background:#e7efba top repeat-x;  font-size:13px;}
+.tableC_td02 { color:#36452f; font-size:13px; background-color:#f3ffe4; }
+
+/* 表格樣式 */
+/*.tableC tr:nth-child(even) {
+background:#e7efba
+}
+.tableC tr:nth-child(odd) {
+	
+background: #FFF
+}*/

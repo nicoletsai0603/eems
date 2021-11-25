@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="441" height="78.828" viewBox="0 0 441 78.828">
+  <g id="step3_title" transform="translate(-678.5 -205.146)">
+    <path id="矩形_1602" data-name="矩形 1602" d="M19,0H402a19,19,0,0,1,19,19V78.828a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V19A19,19,0,0,1,19,0Z" transform="translate(1109.5 283.974) rotate(180)" fill="#6c81de"/>
+    <g id="组_1954" data-name="组 1954" transform="translate(678.5 207.389)">
+      <path id="路径_2792" data-name="路径 2792" d="M-160.793,108.12l-10.268,15.754h10.268Z" transform="translate(171.062 -110.363)" fill="#5261a5"/>
+      <path id="路径_2793" data-name="路径 2793" d="M-124.134,108.12l10.268,15.754h-10.268Z" transform="translate(554.866 -110.363)" fill="#5261a5"/>
+    </g>
+  </g>
+</svg>

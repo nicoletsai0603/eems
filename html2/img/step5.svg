@@ -1,0 +1,18 @@
+<svg id="step5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="202.153" height="202.153" viewBox="0 0 202.153 202.153">
+  <defs>
+    <filter id="矩形_1540" x="34.799" y="33.554" width="143.099" height="143.599" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="矩形_1538" data-name="矩形 1538" d="M0,0H102.153a100,100,0,0,1,100,100v2.153a100,100,0,0,1-100,100H100a100,100,0,0,1-100-100V0A0,0,0,0,1,0,0Z" fill="#ea7f84"/>
+  <g id="白色圓圈" transform="translate(27.342 25.435)">
+    <rect id="矩形_1539" data-name="矩形 1539" width="151.362" height="151.362" rx="75.681" fill="#ea7f84" stroke="#fff" stroke-miterlimit="10" stroke-width="1"/>
+    <g transform="matrix(1, 0, 0, 1, -27.34, -25.43)" filter="url(#矩形_1540)">
+      <rect id="矩形_1540-2" data-name="矩形 1540" width="134.099" height="134.099" rx="67.05" transform="translate(36.3 33.55)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

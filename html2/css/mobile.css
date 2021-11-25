@@ -1,0 +1,262 @@
+@media screen and (max-width: 1600px) {
+    .width1600 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 1422px) {
+    .width1422 {
+        width: 100%;
+        margin-top: 80px;
+    }
+    .Performance .width1422,
+    .MyFunction {
+        flex-wrap: wrap;
+        justify-content: center;
+        margin-top: 0;
+    }
+    .banner {
+        overflow: hidden;
+    }
+    .Performance a {
+        flex-wrap: wrap;
+        width: calc(100% / 3 - 10px);
+        margin: 10px;
+    }
+    .Performance a::after,
+    .Performance::after {
+        display: none;
+    }
+    .Performance a dl {
+        border: #80DBBA 1px solid;
+        border-top: #80DBBA 24px solid;
+    }
+    .logo {
+        width: 174px;
+        height: 60px;
+        background-size: contain;
+        position: absolute;
+        left: 15px;
+        background: url(../img/mobile_logo.svg) left center no-repeat;
+    }
+    .mo {
+        display: block;
+    }
+    .pc {
+        display: none;
+    }
+    .step_arrow {
+        display: none;
+    }
+    .MyFunction li {
+        margin: 20px;
+        width: 48%;
+    }
+    .MyFunction li>.hasChild {
+        display: none;
+    }
+    .MyFunction li>.hasChild li {
+        width: calc(100% - 40px);
+    }
+    .MyFunction li:hover>.hasChild,
+    .MyFunction li:focus-within .hasChild {
+        display: block;
+        opacity: 1;
+        position: unset;
+    }
+    .MyFunction li>.hasChild .width1600 {
+        display: unset;
+    }
+    .MyFunction li>.hasChild {
+        margin-left: -20px;
+        padding: 0;
+    }
+    .MyFunction li>.hasChild li ul.Click_menu li a {
+        padding: 0;
+    }
+    .MyFunction li .Click_menu li {
+        margin: 5px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:960px) {
+    header.eems .width1600.social {
+        padding: 10px;
+    }
+    .social ul {
+        flex-wrap: wrap;
+    }
+    .ac_breadcrumb {
+        margin-top: 120px;
+    }
+    header.eems {
+        min-height: 65px;
+        width: 100%;
+        z-index: 5;
+        background-color: #02699E;
+        margin: 0;
+    }
+    header.eems.on {
+        background-color: transparent;
+        border-bottom: none;
+        border-top: none;
+    }
+    .banner {
+        padding-top: 30px;
+    }
+    .submenu {
+        display: block;
+        width: 100%;
+    }
+    .social ul {
+        line-height: 1.5rem;
+    }
+    .submenu li {
+        width: 100%;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: auto;
+        flex-flow: unset;
+        flex-direction: column;
+        z-index: unset;
+        overflow: hidden;
+    }
+    .submenu li .hasChild {
+        position: relative;
+        pointer-events: unset;
+        padding: 0;
+        height: 0;
+        overflow: hidden;
+        transition: all 0.3s;
+        opacity: 1;
+    }
+    .submenu li>.hasChild.on {
+        height: auto;
+        transition: all 0.3s;
+    }
+    .submenu li>.hasChild>.width1600 {
+        flex-direction: column;
+    }
+    .submenu li>.hasChild li {
+        border-bottom: none;
+    }
+    .submenu li>.hasChild li a {
+        border: none;
+    }
+    .submenu li span {
+        height: auto;
+        width: 100%;
+        display: flex;
+        padding: 20px 0;
+        justify-content: center;
+    }
+    .submenu li a {
+        flex-grow: unset;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        border-bottom: #fff 1px solid;
+    }
+    .submenu li>.hasChild ul {
+        width: 100%;
+    }
+    .submenu li>.hasChild li ul.Click_menu {
+        margin: 10px 0;
+    }
+    .submenu li>.hasChild li ul.Click_menu li {
+        border-bottom: none;
+    }
+    /*mobile選單*/
+    #mobile_menu_labIcon {
+        display: block;
+        position: fixed;
+        right: 20px;
+        margin-top: 5px;
+        z-index: 1000;
+    }
+    #menu_mobile {
+        width: 100%;
+        height: auto;
+        margin: 0 auto;
+        font-size: 1em;
+        position: relative;
+        display: block;
+    }
+    .hamburger {
+        cursor: pointer;
+        display: block;
+    }
+    .hamburger2 {
+        cursor: pointer;
+        width: 30px;
+        height: 30px;
+        display: block;
+    }
+    .hamburger2 .line {
+        width: 30px;
+        height: 3px;
+        background-color: #d09623;
+        display: block;
+        margin: 4px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        border-radius: 50px;
+    }
+    .hamburger2:hover {
+        cursor: pointer;
+    }
+    .hamburger .line {
+        width: 30px;
+        height: 3px;
+        background-color: #fff;
+        display: block;
+        margin: 4px auto;
+        -webkit-transition: all 0.3s ease-in-out;
+        -o-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+        border-radius: 50px;
+    }
+    .hamburger:hover {
+        cursor: pointer;
+    }
+    #hamburger-1.is-active .line {
+        background-color: #fff;
+    }
+    #hamburger-1.is-active .line:nth-child(2) {
+        opacity: 0;
+    }
+    #hamburger-1.is-active .line:nth-child(1) {
+        transform: translateY(3px) rotate(45deg);
+    }
+    #hamburger-1.is-active .line:nth-child(3) {
+        transform: translateY(-11px) rotate(-45deg);
+    }
+    .portfolio-filter.isotope-filter.pull-center {
+        width: calc(100% - 80px);
+        height: 100%;
+        position: fixed;
+        left: calc(-100% + 80px);
+        top: 0;
+        z-index: 9999;
+        background-color: #02699E;
+        margin-bottom: 0;
+        margin-top: 0;
+        transition: 0.3s;
+        overflow-y: scroll;
+    }
+    .portfolio-filter.isotope-filter.pull-center.on {
+        left: 0;
+        transition: 0.3s;
+        align-items: center;
+        display: block;
+    }
+}
+
+@media screen and (max-width:650px) {
+    .up-footer {
+        flex-wrap: wrap;
+    }
+}
